@@ -1,0 +1,7 @@
+python package usage in artificial neural network
+
+1. NLTK
+2. numpy = vector
+3. random = shuffle data
+4. Counter = sorting most common lemmas
+5. pickle = save the process
